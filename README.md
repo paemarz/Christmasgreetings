@@ -13,7 +13,7 @@ Show others you care and remember them by sending easy Christmas cards!!
     <h3>Lots of love♥️</h3>
     
   </div>
-  <h5 class="source-link"><a href="https://images.app.goo.gl/uYM7tB7j4iZowGMH7"</a>Copyright ©Pyeonghwa 2020</h5>
+  <h5 class="source-link"><a href="https://github.com/paemarz"</a>Copyright ©Pyeonghwa 2020</h5>
 
 </body>
 </html>
